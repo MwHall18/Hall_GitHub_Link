@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #161B22;
+}
+
+header {
+    padding-top: 36px;
+    padding-bottom: 24px;
+    text-align: center;
+}
+
+
+h1 {
+    font-weight: 100;
+    margin-top: 0%;
+    text-align: center;
+    color: #F0F6Fc;
+}
+
+form {
+    border: 1px solid #21262d;
+    background-color: #161B22;
+    border-radius: 6px;
+    margin: auto;
+    padding: 16px;
+    max-width: 308px;
+}
+
+
+
+input[type="text"],
+input[type="password"] {
+    background-color: #161B22;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    display: block;
+    line-height: 20px;
+    width: 100%;
+    color: #F0F6Fc;
+}
+
+input, select, textarea {
+    color: #F0F6Fc;
+}
+
+input[type="submit"] {
+    background-color: #2DA44E;
+    border: 1px solid rgba(27,31,36,0.15);
+    border-radius: 6px;
+    color: white;
+    padding: 6px;
+    width: 100%;
+}
+
+label {
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.field-group {
+    margin-bottom: 16px;
+}
+
+p {
+    max-width: 308px;
+    margin: 16px auto;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #21262d;
+    color: #F0F6Fc;
+    border-radius: 6px;
+}
+
+.user {
+    color: #F0F6Fc;
+}
+
+.pass {
+    color: #F0F6Fc;
+    line-height: 2px;
+    float: left;
+}
+
+.fp {
+    padding-bottom: 4px;
+    float: right;
+}
+
+footer {
+    padding-top: 40px;
+    text-align: center;
+}
+
+#terms {
+    color: #58A6FF;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+#privacy {
+    color: #58A6FF;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+#security {
+    color: #58A6FF;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+#contact {
+    color: #58A6FF;
+    color: #8B949E;
+    text-decoration: none;
+}
+
+#forg {
+    color: #58A6FF;
+    text-decoration: none;
+}
+
+#ca {
+    color: #58A6FF;
+    text-decoration: none;
+}
